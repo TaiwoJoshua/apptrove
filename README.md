@@ -59,9 +59,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Run the application
 
-    ```sh
-    npm start
-    ```
+```sh
+npm start
+```
 
 The app should now be running on http://localhost:3000
 
@@ -71,15 +71,15 @@ To deploy the application to Firebase Hosting:
 
 ### Build the application
 
-    ```sh
-    npm run build
-    ```
+```sh
+npm run build
+```
 
 ### Deploy to Firebase
 
-    ```sh
-    firebase deploy
-    ```
+```sh
+firebase deploy
+```
 
 ## Contributing
 
