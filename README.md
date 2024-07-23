@@ -38,9 +38,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2.  **Install dependencies**
 
-        ```sh
-        npm install
-        ```
+    ```sh
+    npm install
+    ```
 
 ### Firebase Setup
 
@@ -48,14 +48,14 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - In the root directory of the project, create a file named .env and add your Firebase configuration details:
 
-      ```makefile
-      REACT_APP_FIREBASE_API_KEY=your_api_key
-      REACT_APP_FIREBASE_AUTH_DOMAIN=your_project_id.firebaseapp.com
-      REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-      REACT_APP_FIREBASE_STORAGE_BUCKET=your_project_id.appspot.com
-      REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-      REACT_APP_FIREBASE_APP_ID=your_app_id
-      ```
+  ```makefile
+  REACT_APP_FIREBASE_API_KEY=your_api_key
+  REACT_APP_FIREBASE_AUTH_DOMAIN=your_project_id.firebaseapp.com
+  REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+  REACT_APP_FIREBASE_STORAGE_BUCKET=your_project_id.appspot.com
+  REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+  REACT_APP_FIREBASE_APP_ID=your_app_id
+  ```
 
 ### Run the application
 
@@ -97,6 +97,6 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Taiwo Joshua
-joshuataiwo07@gmail.com
-Project Link: https://github.com/TaiwoJoshua/apptrove
+- Taiwo Joshua
+- joshuataiwo07@gmail.com
+- Project Link: https://github.com/TaiwoJoshua/apptrove
