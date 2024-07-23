@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "au1blqa7x",
+    "icon": "/images/apps/app5.png",
+    "name": "App Six",
+    "link": "/images/apps/app3.png",
+    "size": "57.09MB",
+    "downloads": 846905,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | TechCorp | Innovative Solutions",
+    "categories": ["Trading Platforms"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721453708367
+  },
+  {
+    "id": "kvj84nm54",
+    "icon": "/images/apps/app5.png",
+    "name": "App Two",
+    "link": "/images/apps/app5.png",
+    "size": "16.59MB",
+    "downloads": 175627,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Innovative Solutions | Taiwo Joshua",
+    "categories": ["Crypto Wallets", "Audio Editing"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721470372029
+  },
+  {
+    "id": "eboqroqpj",
+    "icon": "/images/apps/app4.png",
+    "name": "App Six",
+    "link": "/images/apps/app3.png",
+    "size": "76.95MB",
+    "downloads": 723887,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Creative Minds",
+    "categories": ["Blockchain Development", "Personalized Recommendations"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721464143188
+  },
+  {
+    "id": "prvlfzjod",
+    "icon": "/images/apps/app1.png",
+    "name": "App Four",
+    "link": "/images/apps/app1.png",
+    "size": "63.19MB",
+    "downloads": 36275,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Blockchain Development"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721511989857
+  },
+  {
+    "id": "fvnm9dvc1",
+    "icon": "/images/apps/app3.png",
+    "name": "App Five",
+    "link": "/images/apps/app2.png",
+    "size": "69.53MB",
+    "downloads": 351731,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": ["Food and Drink"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721433687823
+  },
+  {
+    "id": "yag67jefz",
+    "icon": "/images/apps/app4.png",
+    "name": "App Three",
+    "link": "/images/apps/app1.png",
+    "size": "85.54MB",
+    "downloads": 232892,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | NextGen Developers | Alpha Studios",
+    "categories": ["News Aggregators"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721432714700
+  },
+  {
+    "id": "ri3go8z19",
+    "icon": "/images/apps/app5.png",
+    "name": "App Four",
+    "link": "/images/apps/app3.png",
+    "size": "9.20MB",
+    "downloads": 853571,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios | Creative Minds",
+    "categories": [
+      "Legal Assistance",
+      "Mortgage Calculators",
+      "Workflow Automation"
+    ],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721461628952
+  },
+  {
+    "id": "876pg49us",
+    "icon": "/images/apps/app4.png",
+    "name": "App Seven",
+    "link": "/images/apps/app5.png",
+    "size": "10.46MB",
+    "downloads": 630675,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios",
+    "categories": ["Contract Management", "Food and Drink"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721505503393
+  },
+  {
+    "id": "83kgo8fdu",
+    "icon": "/images/apps/app2.png",
+    "name": "App Five",
+    "link": "/images/apps/app1.png",
+    "size": "78.55MB",
+    "downloads": 356920,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | NextGen Developers",
+    "categories": ["Social Media", "Home Automation", "Medical Reference"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721468260406
+  },
+  {
+    "id": "mzfjmkkmj",
+    "icon": "/images/apps/app5.png",
+    "name": "App Two",
+    "link": "/images/apps/app5.png",
+    "size": "99.77MB",
+    "downloads": 185347,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Creative Minds | NextGen Developers",
+    "categories": ["Meditation", "Security", "Calendars"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721489663673
+  },
+  {
+    "id": "5krsyzq9c",
+    "icon": "/images/apps/app1.png",
+    "name": "App Nine",
+    "link": "/images/apps/app2.png",
+    "size": "58.41MB",
+    "downloads": 877110,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Creative Minds",
+    "categories": ["Price Comparison"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721499554273
+  },
+  {
+    "id": "n9fqouf9m",
+    "icon": "/images/apps/app3.png",
+    "name": "App Four",
+    "link": "/images/apps/app3.png",
+    "size": "1.78MB",
+    "downloads": 227613,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": [
+      "Device Management",
+      "Price Comparison",
+      "RSVP & Scheduling"
+    ],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721501373694
+  },
+  {
+    "id": "vpi76zdbh",
+    "icon": "/images/apps/app1.png",
+    "name": "App Six",
+    "link": "/images/apps/app5.png",
+    "size": "13.30MB",
+    "downloads": 855922,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Expense Tracking", "Document Editing", "AR Games"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721483440436
+  },
+  {
+    "id": "uxk4m37e3",
+    "icon": "/images/apps/app2.png",
+    "name": "App Two",
+    "link": "/images/apps/app1.png",
+    "size": "33.14MB",
+    "downloads": 684925,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Alpha Studios",
+    "categories": ["Educational Games", "Family Organizers", "Banking"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721438905913
+  },
+  {
+    "id": "f2f496oin",
+    "icon": "/images/apps/app4.png",
+    "name": "App Six",
+    "link": "/images/apps/app5.png",
+    "size": "84.91MB",
+    "downloads": 583082,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Taiwo Joshua",
+    "categories": ["IDEs (Integrated Development Environments)"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721437081939
+  },
+  {
+    "id": "eiqxc7c2r",
+    "icon": "/images/apps/app4.png",
+    "name": "App Seven",
+    "link": "/images/apps/app3.png",
+    "size": "61.34MB",
+    "downloads": 17507,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | TechCorp | Alpha Studios",
+    "categories": ["Family Calendars", "Expense Tracking", "Version Control"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721431528992
+  },
+  {
+    "id": "aomkyo4cm",
+    "icon": "/images/apps/app3.png",
+    "name": "App Three",
+    "link": "/images/apps/app5.png",
+    "size": "5.85MB",
+    "downloads": 929443,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua",
+    "categories": [
+      "Project Management",
+      "Habit Tracking",
+      "Fitness and Health"
+    ],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721476926040
+  },
+  {
+    "id": "61tsuuwa3",
+    "icon": "/images/apps/app3.png",
+    "name": "App Eight",
+    "link": "/images/apps/app5.png",
+    "size": "23.16MB",
+    "downloads": 763757,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | TechCorp | Creative Minds",
+    "categories": ["Virtual Tours", "Personalized Recommendations"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721442662110
+  },
+  {
+    "id": "syghjh3xv",
+    "icon": "/images/apps/app5.png",
+    "name": "App Five",
+    "link": "/images/apps/app1.png",
+    "size": "29.32MB",
+    "downloads": 374980,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | NextGen Developers",
+    "categories": ["Blockchain Development"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721447131290
+  },
+  {
+    "id": "43r4w9sz6",
+    "icon": "/images/apps/app2.png",
+    "name": "App Eight",
+    "link": "/images/apps/app5.png",
+    "size": "67.05MB",
+    "downloads": 175007,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers",
+    "categories": ["Workflow Automation"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721472500794
+  },
+  {
+    "id": "t14z0iyg2",
+    "icon": "/images/apps/app4.png",
+    "name": "App Two",
+    "link": "/images/apps/app3.png",
+    "size": "42.55MB",
+    "downloads": 366976,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | NextGen Developers",
+    "categories": ["Personalized Recommendations", "Educational Games"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721443178556
+  },
+  {
+    "id": "70evc88yh",
+    "icon": "/images/apps/app3.png",
+    "name": "App Nine",
+    "link": "/images/apps/app4.png",
+    "size": "29.47MB",
+    "downloads": 460297,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Alpha Studios",
+    "categories": ["Voting", "News Aggregators"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721462466048
+  },
+  {
+    "id": "h2t0s04mn",
+    "icon": "/images/apps/app5.png",
+    "name": "App Seven",
+    "link": "/images/apps/app2.png",
+    "size": "92.60MB",
+    "downloads": 941866,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp",
+    "categories": ["Music Discovery"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721457398865
+  },
+  {
+    "id": "igldved5f",
+    "icon": "/images/apps/app1.png",
+    "name": "App Eight",
+    "link": "/images/apps/app3.png",
+    "size": "53.90MB",
+    "downloads": 918134,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds",
+    "categories": ["Legal Document Preparation"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721463902152
+  },
+  {
+    "id": "fue5k9lyd",
+    "icon": "/images/apps/app5.png",
+    "name": "App Four",
+    "link": "/images/apps/app5.png",
+    "size": "93.52MB",
+    "downloads": 852197,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios | Creative Minds",
+    "categories": [
+      "Trading Platforms",
+      "Scientific Calculators",
+      "Speech Recognition"
+    ],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721463337606
+  },
+  {
+    "id": "6z3sytxre",
+    "icon": "/images/apps/app4.png",
+    "name": "App Eight",
+    "link": "/images/apps/app4.png",
+    "size": "26.50MB",
+    "downloads": 834962,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | NextGen Developers | Taiwo Joshua",
+    "categories": ["Investment"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721495484037
+  },
+  {
+    "id": "hw3yimscm",
+    "icon": "/images/apps/app3.png",
+    "name": "App Nine",
+    "link": "/images/apps/app1.png",
+    "size": "76.88MB",
+    "downloads": 461141,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | NextGen Developers | Alpha Studios",
+    "categories": ["Note-Taking", "Image Storage"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721506390570
+  },
+  {
+    "id": "yrusk2q4m",
+    "icon": "/images/apps/app3.png",
+    "name": "App Six",
+    "link": "/images/apps/app4.png",
+    "size": "70.65MB",
+    "downloads": 976821,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers",
+    "categories": ["Event Management", "Document Editing"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721444807129
+  },
+  {
+    "id": "ikatqdbfv",
+    "icon": "/images/apps/app4.png",
+    "name": "App Three",
+    "link": "/images/apps/app2.png",
+    "size": "4.41MB",
+    "downloads": 207879,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds | Taiwo Joshua",
+    "categories": ["Image Storage", "Telemedicine", "AR Navigation"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721486072689
+  },
+  {
+    "id": "pkx358j94",
+    "icon": "/images/apps/app2.png",
+    "name": "App Four",
+    "link": "/images/apps/app4.png",
+    "size": "40.21MB",
+    "downloads": 846590,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Taiwo Joshua | Innovative Solutions",
+    "categories": ["Household Budgeting"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721446398207
+  },
+  {
+    "id": "twbmi286x",
+    "icon": "/images/apps/app1.png",
+    "name": "App Eight",
+    "link": "/images/apps/app4.png",
+    "size": "59.18MB",
+    "downloads": 344847,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Taiwo Joshua",
+    "categories": ["Task Management"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721479560607
+  },
+  {
+    "id": "o6vgz0xxb",
+    "icon": "/images/apps/app4.png",
+    "name": "App Five",
+    "link": "/images/apps/app4.png",
+    "size": "3.09MB",
+    "downloads": 598561,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Innovative Solutions",
+    "categories": ["Public Transit"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721476157467
+  },
+  {
+    "id": "ryl1o36g8",
+    "icon": "/images/apps/app1.png",
+    "name": "App Four",
+    "link": "/images/apps/app4.png",
+    "size": "57.16MB",
+    "downloads": 276211,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds",
+    "categories": ["Banking"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721450141500
+  },
+  {
+    "id": "fayajio7t",
+    "icon": "/images/apps/app4.png",
+    "name": "App Three",
+    "link": "/images/apps/app2.png",
+    "size": "21.00MB",
+    "downloads": 383641,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Innovative Solutions | NextGen Developers",
+    "categories": ["Sports News", "Audio Editing", "Kids’ Learning Apps"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721479910690
+  },
+  {
+    "id": "8apf0pdek",
+    "icon": "/images/apps/app1.png",
+    "name": "App Six",
+    "link": "/images/apps/app2.png",
+    "size": "71.46MB",
+    "downloads": 93562,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Alpha Studios | TechCorp",
+    "categories": [
+      "Magazine Subscriptions",
+      "Enterprise Resource Planning (ERP)",
+      "Legal Assistance"
+    ],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721469550704
+  },
+  {
+    "id": "k3673rrqy",
+    "icon": "/images/apps/app2.png",
+    "name": "App Nine",
+    "link": "/images/apps/app1.png",
+    "size": "59.14MB",
+    "downloads": 313277,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua",
+    "categories": ["Tech News", "Travel and Navigation"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721436317437
+  },
+  {
+    "id": "bs44bx2ay",
+    "icon": "/images/apps/app1.png",
+    "name": "App Nine",
+    "link": "/images/apps/app2.png",
+    "size": "16.87MB",
+    "downloads": 164639,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Taiwo Joshua | Alpha Studios",
+    "categories": ["Civic Engagement", "Virtual Tours", "Fashion"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721495075764
+  },
+  {
+    "id": "mci1i9ohf",
+    "icon": "/images/apps/app3.png",
+    "name": "App Eight",
+    "link": "/images/apps/app1.png",
+    "size": "53.81MB",
+    "downloads": 226859,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios",
+    "categories": ["Research Tools"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721508187398
+  },
+  {
+    "id": "yy22nhpwt",
+    "icon": "/images/apps/app5.png",
+    "name": "App Ten",
+    "link": "/images/apps/app1.png",
+    "size": "82.67MB",
+    "downloads": 456970,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | Taiwo Joshua | NextGen Developers",
+    "categories": ["Language Learning", "Fitness and Health", "Crypto Wallets"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721439241842
+  },
+  {
+    "id": "gk511t0hd",
+    "icon": "/images/apps/app2.png",
+    "name": "App Two",
+    "link": "/images/apps/app3.png",
+    "size": "76.36MB",
+    "downloads": 941296,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds | NextGen Developers",
+    "categories": ["Social Media", "RSVP & Scheduling"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721476606666
+  },
+  {
+    "id": "zxfohl5aw",
+    "icon": "/images/apps/app4.png",
+    "name": "App Two",
+    "link": "/images/apps/app2.png",
+    "size": "42.93MB",
+    "downloads": 240613,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds",
+    "categories": ["Educational Games", "Note-Taking"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721472260612
+  },
+  {
+    "id": "wvy0vxf40",
+    "icon": "/images/apps/app5.png",
+    "name": "App Five",
+    "link": "/images/apps/app3.png",
+    "size": "64.15MB",
+    "downloads": 72222,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | NextGen Developers | Alpha Studios",
+    "categories": ["Audio Editing", "Event Management", "Industry News"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721437076096
+  },
+  {
+    "id": "re00datsb",
+    "icon": "/images/apps/app5.png",
+    "name": "App One",
+    "link": "/images/apps/app4.png",
+    "size": "94.03MB",
+    "downloads": 99538,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | NextGen Developers",
+    "categories": ["Customization Tools", "Hobbies", "Speech Recognition"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721468004839
+  },
+  {
+    "id": "d38fyx11a",
+    "icon": "/images/apps/app1.png",
+    "name": "App One",
+    "link": "/images/apps/app3.png",
+    "size": "55.61MB",
+    "downloads": 726472,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | Alpha Studios",
+    "categories": [
+      "Backup and Recovery",
+      "Contract Management",
+      "Personalized Recommendations"
+    ],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721480185521
+  },
+  {
+    "id": "m7rxxslxd",
+    "icon": "/images/apps/app5.png",
+    "name": "App Seven",
+    "link": "/images/apps/app2.png",
+    "size": "67.78MB",
+    "downloads": 373148,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | TechCorp | Taiwo Joshua",
+    "categories": ["Currency Converters"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721443291714
+  },
+  {
+    "id": "q13str2ll",
+    "icon": "/images/apps/app1.png",
+    "name": "App Four",
+    "link": "/images/apps/app1.png",
+    "size": "46.31MB",
+    "downloads": 626532,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Innovative Solutions",
+    "categories": ["Games", "Music Production", "Workout Plans"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721471653365
+  },
+  {
+    "id": "sgau7ytgv",
+    "icon": "/images/apps/app3.png",
+    "name": "App One",
+    "link": "/images/apps/app2.png",
+    "size": "7.00MB",
+    "downloads": 881114,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | TechCorp",
+    "categories": ["Booking and Reservations"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721490826624
+  },
+  {
+    "id": "i31jx4lxp",
+    "icon": "/images/apps/app1.png",
+    "name": "App Ten",
+    "link": "/images/apps/app3.png",
+    "size": "89.23MB",
+    "downloads": 317717,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers",
+    "categories": [
+      "Household Budgeting",
+      "Wishlist Management",
+      "Family Calendars"
+    ],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721512718156
+  },
+  {
+    "id": "7adv5n7y2",
+    "icon": "/images/apps/app2.png",
+    "name": "App Eight",
+    "link": "/images/apps/app5.png",
+    "size": "70.75MB",
+    "downloads": 694277,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": ["News"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721431964271
+  },
+  {
+    "id": "4rk47a830",
+    "icon": "/images/apps/app3.png",
+    "name": "App One",
+    "link": "/images/apps/app3.png",
+    "size": "61.73MB",
+    "downloads": 881434,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | Creative Minds",
+    "categories": ["Personal Finance", "E-commerce", "Health Tracking"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721444994766
+  },
+  {
+    "id": "x4xelq6su",
+    "icon": "/images/apps/app2.png",
+    "name": "App Nine",
+    "link": "/images/apps/app4.png",
+    "size": "70.28MB",
+    "downloads": 580608,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["Expense Tracking", "Fantasy Sports"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721492937453
+  },
+  {
+    "id": "o877viud2",
+    "icon": "/images/apps/app5.png",
+    "name": "App One",
+    "link": "/images/apps/app5.png",
+    "size": "29.32MB",
+    "downloads": 581895,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["HR Management"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721487392696
+  },
+  {
+    "id": "ynd6vf99v",
+    "icon": "/images/apps/app3.png",
+    "name": "App Five",
+    "link": "/images/apps/app1.png",
+    "size": "4.23MB",
+    "downloads": 763106,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | TechCorp | Innovative Solutions",
+    "categories": ["Photo Editing", "Restaurant Delivery", "Mining Tools"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721481551711
+  },
+  {
+    "id": "gn17gxlv2",
+    "icon": "/images/apps/app1.png",
+    "name": "App Six",
+    "link": "/images/apps/app3.png",
+    "size": "58.30MB",
+    "downloads": 973453,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios | NextGen Developers",
+    "categories": ["Home Improvement", "Music Production"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721437718527
+  },
+  {
+    "id": "yrxhc6e4l",
+    "icon": "/images/apps/app3.png",
+    "name": "App Six",
+    "link": "/images/apps/app1.png",
+    "size": "64.37MB",
+    "downloads": 12758,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios",
+    "categories": ["Screen Readers", "Document Editing"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721435948936
+  },
+  {
+    "id": "72pqh5dit",
+    "icon": "/images/apps/app2.png",
+    "name": "App One",
+    "link": "/images/apps/app1.png",
+    "size": "92.66MB",
+    "downloads": 458514,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Innovative Solutions | Alpha Studios",
+    "categories": ["Photo Sharing"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721479510618
+  },
+  {
+    "id": "lb6g09a9v",
+    "icon": "/images/apps/app4.png",
+    "name": "App Two",
+    "link": "/images/apps/app1.png",
+    "size": "81.20MB",
+    "downloads": 572415,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Music Streaming"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721515794429
+  },
+  {
+    "id": "s2gz29f5s",
+    "icon": "/images/apps/app1.png",
+    "name": "App One",
+    "link": "/images/apps/app4.png",
+    "size": "74.07MB",
+    "downloads": 515469,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | NextGen Developers",
+    "categories": ["Hobbies"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721482717201
+  },
+  {
+    "id": "blofxm64n",
+    "icon": "/images/apps/app3.png",
+    "name": "App Two",
+    "link": "/images/apps/app2.png",
+    "size": "45.51MB",
+    "downloads": 794390,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua",
+    "categories": ["Image Storage", "Travel Guides"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721469674926
+  },
+  {
+    "id": "fwdjqosw4",
+    "icon": "/images/apps/app2.png",
+    "name": "App Seven",
+    "link": "/images/apps/app4.png",
+    "size": "44.82MB",
+    "downloads": 37396,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | Innovative Solutions | TechCorp",
+    "categories": ["Mining Tools", "Grocery Delivery"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721439837515
+  },
+  {
+    "id": "o8vjdsj0b",
+    "icon": "/images/apps/app1.png",
+    "name": "App Six",
+    "link": "/images/apps/app5.png",
+    "size": "19.70MB",
+    "downloads": 928894,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Alpha Studios | TechCorp",
+    "categories": ["Family Organizers"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721430644267
+  },
+  {
+    "id": "9t07rozd2",
+    "icon": "/images/apps/app2.png",
+    "name": "App Five",
+    "link": "/images/apps/app1.png",
+    "size": "37.59MB",
+    "downloads": 300737,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | Innovative Solutions",
+    "categories": ["Home Automation"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721476236543
+  },
+  {
+    "id": "j7cgjzvek",
+    "icon": "/images/apps/app2.png",
+    "name": "App Eight",
+    "link": "/images/apps/app1.png",
+    "size": "86.11MB",
+    "downloads": 623983,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | NextGen Developers | Taiwo Joshua",
+    "categories": ["Blockchain Development"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721498566678
+  },
+  {
+    "id": "elygv18os",
+    "icon": "/images/apps/app1.png",
+    "name": "App Five",
+    "link": "/images/apps/app2.png",
+    "size": "35.86MB",
+    "downloads": 370889,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | TechCorp",
+    "categories": ["Civic Engagement", "Navigation", "Sports News"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721446512231
+  },
+  {
+    "id": "68sh6lnep",
+    "icon": "/images/apps/app5.png",
+    "name": "App Five",
+    "link": "/images/apps/app5.png",
+    "size": "69.34MB",
+    "downloads": 585012,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": [
+      "Travel and Navigation",
+      "Currency Converters",
+      "Documentation Tools"
+    ],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721445017423
+  },
+  {
+    "id": "il1msqy93",
+    "icon": "/images/apps/app4.png",
+    "name": "App Four",
+    "link": "/images/apps/app3.png",
+    "size": "80.43MB",
+    "downloads": 498258,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["Family Organizers", "Contract Management", "Industry News"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721471273828
+  },
+  {
+    "id": "jdwbmo28r",
+    "icon": "/images/apps/app5.png",
+    "name": "App Seven",
+    "link": "/images/apps/app4.png",
+    "size": "72.62MB",
+    "downloads": 288600,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Alpha Studios | TechCorp",
+    "categories": ["Cryptocurrency", "Note-Taking"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721494456218
+  },
+  {
+    "id": "3u0aty4kl",
+    "icon": "/images/apps/app3.png",
+    "name": "App Eight",
+    "link": "/images/apps/app4.png",
+    "size": "18.81MB",
+    "downloads": 991431,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers",
+    "categories": ["Version Control", "Local News", "Music Production"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721461925554
+  },
+  {
+    "id": "fdvwnqemi",
+    "icon": "/images/apps/app4.png",
+    "name": "App Eight",
+    "link": "/images/apps/app1.png",
+    "size": "84.10MB",
+    "downloads": 902135,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Ride-Sharing"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721509605159
+  },
+  {
+    "id": "6k9emfefa",
+    "icon": "/images/apps/app5.png",
+    "name": "App Nine",
+    "link": "/images/apps/app4.png",
+    "size": "84.51MB",
+    "downloads": 576179,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp",
+    "categories": [
+      "Music Streaming",
+      "IDEs (Integrated Development Environments)",
+      "Language Learning"
+    ],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721446712393
+  },
+  {
+    "id": "emlhjhv0w",
+    "icon": "/images/apps/app1.png",
+    "name": "App Nine",
+    "link": "/images/apps/app5.png",
+    "size": "35.32MB",
+    "downloads": 73764,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua",
+    "categories": ["Personal Finance", "Time Management"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721511715243
+  },
+  {
+    "id": "3qhvbmkmv",
+    "icon": "/images/apps/app3.png",
+    "name": "App Five",
+    "link": "/images/apps/app5.png",
+    "size": "40.46MB",
+    "downloads": 94395,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds | Innovative Solutions",
+    "categories": ["Personal Finance", "Crypto Wallets"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721456232036
+  },
+  {
+    "id": "9esfmlsit",
+    "icon": "/images/apps/app3.png",
+    "name": "App Two",
+    "link": "/images/apps/app4.png",
+    "size": "58.40MB",
+    "downloads": 916586,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Grocery Delivery", "Home Automation", "Shopping"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721468340258
+  },
+  {
+    "id": "g1a5dx1xq",
+    "icon": "/images/apps/app2.png",
+    "name": "App One",
+    "link": "/images/apps/app3.png",
+    "size": "83.58MB",
+    "downloads": 797099,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Alpha Studios | Creative Minds",
+    "categories": ["Robotics Control", "Mental Health", "Deal Finders"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721495288139
+  },
+  {
+    "id": "yggguo050",
+    "icon": "/images/apps/app1.png",
+    "name": "App Three",
+    "link": "/images/apps/app2.png",
+    "size": "76.04MB",
+    "downloads": 816865,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Image Storage", "Cryptocurrency"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721468063033
+  },
+  {
+    "id": "dg3f40vqd",
+    "icon": "/images/apps/app5.png",
+    "name": "App Eight",
+    "link": "/images/apps/app5.png",
+    "size": "9.47MB",
+    "downloads": 643080,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | NextGen Developers",
+    "categories": ["Accessibility Utilities"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721470353947
+  },
+  {
+    "id": "spdcn939h",
+    "icon": "/images/apps/app1.png",
+    "name": "App Five",
+    "link": "/images/apps/app5.png",
+    "size": "60.70MB",
+    "downloads": 587966,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | Creative Minds | TechCorp",
+    "categories": ["System Optimization", "Sports News"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721481629222
+  },
+  {
+    "id": "r70biuaas",
+    "icon": "/images/apps/app3.png",
+    "name": "App Two",
+    "link": "/images/apps/app4.png",
+    "size": "28.91MB",
+    "downloads": 605991,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Robotics Control"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721445741530
+  },
+  {
+    "id": "q0hpg3ies",
+    "icon": "/images/apps/app5.png",
+    "name": "App Seven",
+    "link": "/images/apps/app1.png",
+    "size": "75.72MB",
+    "downloads": 833138,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Creative Minds | NextGen Developers",
+    "categories": ["Recipe Management", "Industry News"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721466983664
+  },
+  {
+    "id": "1wew6maj0",
+    "icon": "/images/apps/app2.png",
+    "name": "App Seven",
+    "link": "/images/apps/app5.png",
+    "size": "13.12MB",
+    "downloads": 387419,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Training and Fitness", "Investment", "Music Streaming"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721451536244
+  },
+  {
+    "id": "87m537j9r",
+    "icon": "/images/apps/app1.png",
+    "name": "App Two",
+    "link": "/images/apps/app5.png",
+    "size": "94.33MB",
+    "downloads": 985399,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | TechCorp | Creative Minds",
+    "categories": ["Magnifiers", "Backup and Recovery", "Cryptocurrency"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721503056060
+  },
+  {
+    "id": "agi6lw424",
+    "icon": "/images/apps/app1.png",
+    "name": "App Five",
+    "link": "/images/apps/app1.png",
+    "size": "30.56MB",
+    "downloads": 99349,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Mental Health"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721485826187
+  },
+  {
+    "id": "hzam56ce7",
+    "icon": "/images/apps/app2.png",
+    "name": "App Two",
+    "link": "/images/apps/app2.png",
+    "size": "19.21MB",
+    "downloads": 896311,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": ["Case Management"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app1.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721446627340
+  },
+  {
+    "id": "fqlfb4hvc",
+    "icon": "/images/apps/app1.png",
+    "name": "App Two",
+    "link": "/images/apps/app1.png",
+    "size": "93.25MB",
+    "downloads": 666950,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | NextGen Developers | Alpha Studios",
+    "categories": ["Video Conferencing", "RSVP & Scheduling"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721441728090
+  },
+  {
+    "id": "te2uvf3n6",
+    "icon": "/images/apps/app5.png",
+    "name": "App Nine",
+    "link": "/images/apps/app2.png",
+    "size": "90.04MB",
+    "downloads": 482355,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua",
+    "categories": [
+      "Mining Tools",
+      "Educational Games",
+      "CRM (Customer Relationship Management)"
+    ],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721485370485
+  },
+  {
+    "id": "r3665x4do",
+    "icon": "/images/apps/app3.png",
+    "name": "App Two",
+    "link": "/images/apps/app4.png",
+    "size": "61.43MB",
+    "downloads": 886200,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp",
+    "categories": ["VR Games"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721496515280
+  },
+  {
+    "id": "tvv7wa8y1",
+    "icon": "/images/apps/app1.png",
+    "name": "App One",
+    "link": "/images/apps/app1.png",
+    "size": "90.76MB",
+    "downloads": 125527,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios | TechCorp",
+    "categories": ["AR Games"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721471801961
+  },
+  {
+    "id": "kbqals9s0",
+    "icon": "/images/apps/app2.png",
+    "name": "App Three",
+    "link": "/images/apps/app1.png",
+    "size": "34.20MB",
+    "downloads": 293217,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "NextGen Developers | Innovative Solutions",
+    "categories": ["Medical Reference", "Telemedicine"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721439025081
+  },
+  {
+    "id": "tdt0pjwxl",
+    "icon": "/images/apps/app1.png",
+    "name": "App Six",
+    "link": "/images/apps/app3.png",
+    "size": "17.90MB",
+    "downloads": 883479,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | TechCorp | NextGen Developers",
+    "categories": ["Mining Tools", "Event Management"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721493191755
+  },
+  {
+    "id": "sv17hki3b",
+    "icon": "/images/apps/app1.png",
+    "name": "App Ten",
+    "link": "/images/apps/app1.png",
+    "size": "58.16MB",
+    "downloads": 807408,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["Navigation", "Home Improvement"],
+    "preview": [
+      "/images/apps/app2.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721495157036
+  },
+  {
+    "id": "fa1fuoz0u",
+    "icon": "/images/apps/app2.png",
+    "name": "App Seven",
+    "link": "/images/apps/app1.png",
+    "size": "72.88MB",
+    "downloads": 895172,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp",
+    "categories": ["Contract Management", "Legal Research", "Scripting Tools"],
+    "preview": [
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png"
+    ],
+    "timestamp": 1721493232592
+  },
+  {
+    "id": "j0tzo8e92",
+    "icon": "/images/apps/app1.png",
+    "name": "App One",
+    "link": "/images/apps/app2.png",
+    "size": "24.24MB",
+    "downloads": 739789,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions",
+    "categories": ["Meal Kits", "Email"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721455130954
+  },
+  {
+    "id": "g3rybr6j3",
+    "icon": "/images/apps/app4.png",
+    "name": "App Ten",
+    "link": "/images/apps/app3.png",
+    "size": "56.57MB",
+    "downloads": 713528,
+    "about": "Listen to your favorite music on the go. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "TechCorp | Taiwo Joshua",
+    "categories": ["Magazine Subscriptions", "Scripting Tools"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721507173902
+  },
+  {
+    "id": "4xo3qw2sx",
+    "icon": "/images/apps/app2.png",
+    "name": "App Nine",
+    "link": "/images/apps/app4.png",
+    "size": "13.95MB",
+    "downloads": 338077,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Creative Minds | NextGen Developers",
+    "categories": ["Task Management", "Wishlist Management", "Food Ordering"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721484366645
+  },
+  {
+    "id": "zq5v4zlp1",
+    "icon": "/images/apps/app4.png",
+    "name": "App Three",
+    "link": "/images/apps/app3.png",
+    "size": "33.52MB",
+    "downloads": 642902,
+    "about": "Stay connected with your friends and family. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | Innovative Solutions | Creative Minds",
+    "categories": ["Price Comparison"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721511319690
+  },
+  {
+    "id": "3rv02g0wj",
+    "icon": "/images/apps/app1.png",
+    "name": "App Seven",
+    "link": "/images/apps/app5.png",
+    "size": "80.94MB",
+    "downloads": 635566,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Taiwo Joshua | TechCorp | Innovative Solutions",
+    "categories": ["Civic Engagement"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png"
+    ],
+    "timestamp": 1721445733192
+  },
+  {
+    "id": "557somkno",
+    "icon": "/images/apps/app4.png",
+    "name": "App Three",
+    "link": "/images/apps/app3.png",
+    "size": "46.92MB",
+    "downloads": 782751,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["Fitness and Health", "Workout Plans", "Meal Kits"],
+    "preview": [
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png",
+      "/images/apps/app4.png",
+      "/images/apps/app4.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721489968146
+  },
+  {
+    "id": "kb3e7c7n8",
+    "icon": "/images/apps/app3.png",
+    "name": "App Two",
+    "link": "/images/apps/app1.png",
+    "size": "84.61MB",
+    "downloads": 256730,
+    "about": "Learn new skills and improve yourself. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Alpha Studios",
+    "categories": ["Music Discovery", "Food Ordering"],
+    "preview": [
+      "/images/apps/app4.png",
+      "/images/apps/app1.png",
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app4.png",
+      "/images/apps/app5.png"
+    ],
+    "timestamp": 1721450266078
+  },
+  {
+    "id": "j66dx25jt",
+    "icon": "/images/apps/app2.png",
+    "name": "App Six",
+    "link": "/images/apps/app2.png",
+    "size": "76.56MB",
+    "downloads": 755893,
+    "about": "Shop the latest trends and deals. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Creative Minds",
+    "categories": ["Fashion"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app2.png",
+      "/images/apps/app3.png",
+      "/images/apps/app1.png",
+      "/images/apps/app1.png",
+      "/images/apps/app2.png"
+    ],
+    "timestamp": 1721457960943
+  },
+  {
+    "id": "osu8nndmo",
+    "icon": "/images/apps/app3.png",
+    "name": "App Nine",
+    "link": "/images/apps/app1.png",
+    "size": "72.61MB",
+    "downloads": 723033,
+    "about": "A great app for productivity. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt molestias vitae cupiditate nostrum, odio libero, minus et eum alias sit, temporibus velit. Maxime quod ipsum, obcaecati est recusandae provident",
+    "author": "Innovative Solutions | Taiwo Joshua",
+    "categories": ["Habit Tracking", "Magazine Subscriptions"],
+    "preview": [
+      "/images/apps/app5.png",
+      "/images/apps/app5.png",
+      "/images/apps/app3.png"
+    ],
+    "timestamp": 1721457155784
+  }
+]

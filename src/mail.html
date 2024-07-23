@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="margin: 0; padding: 0">
+    <!-- <div style="background-color: #E9EBEE; padding: 40px 20px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        <div style="width: calc(100% - 40px); max-width: 600px; background-color: white; margin: auto; border-radius: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); padding: 15px;">
+            <a href="https://apptrove.netlify.app/" style="display: block; text-align: center; text-decoration: none; color: black;"><img src="https://apptrove.netlify.app/banner.png" alt="App Trove" style="max-width: 90%; max-height: 30px;" /></a>
+            <hr style="color: gray; margin: 15px 0;" />
+            {{#found}}
+            <h3 style="margin: 0;">Dear {{name}},</h3>
+            <p>We hope this email finds you well.</p>
+            <p>We're excited to inform you that the book you requested from <strong><span style="color: #001F3F;">APP</span>TROVE</strong> eLibrary, " <a href="https://apptrove.netlify.app/search/{{booktitle}}" style="color: #001F3F;">{{booktitle}}</a> ", has been found and is now available for download!</p>
+            <p>Thank you for choosing us and contributing to the expansion of our database. We hope you enjoy your new book!</p>
+            {{/found}}
+            {{^found}}
+            <h3 style="margin: 0;">Congratulations! {{name}},</h3>
+            <p>Your book request for {{booktitle}} to <strong><span style="color: #001F3F;">APP</span>TROVE</strong> eLibrary was successful!</p>
+            <p>Your request ticket number is: {{ticket}}.</p>
+            <p>You can check the status of your request <strong><a style="color: #001F3F;" href="https://apptrove.netlify.app/requests/">here</a></strong> anytime using this ticket number.</p>
+            <p>Rest assured, we'll notify you via email as soon as the book is found.</p>
+            <p><strong>Note:</strong> An App Request would be deleted after 7 days if the status has become either Completed or Not Found.</p>
+            <p>Thank you for choosing us and contributing to the expansion of our database. Happy reading!</p>
+            {{/found}}
+            <p style="margin-bottom: 0;">Warm regards,</p>
+            <p style="margin-top: 0;"><strong>App Trove Team.</strong></p>
+        </div>
+    </div> -->
+
+    <!-- ====================================================================== -->
+
+    <!-- Request Mail -->
+
+    <!-- ====================================================================== -->
+    <div
+      style="
+        background-color: #e9ebee;
+        padding: 40px 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+          Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+          sans-serif;
+      "
+    >
+      <div
+        style="
+          width: calc(100% - 40px);
+          max-width: 600px;
+          background-color: white;
+          margin: auto;
+          border-radius: 10px;
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+          padding: 15px;
+        "
+      >
+        <a
+          href="https://apptrove.netlify.app/"
+          style="
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            color: black;
+          "
+          ><img
+            src="https://apptrove.netlify.app/banner.png"
+            alt="App Trove"
+            style="max-width: 90%; max-height: 30px"
+        /></a>
+        <hr style="color: gray; margin: 15px 0" />
+        <h3 style="margin: 0">Congratulations! {{name}},</h3>
+        <p>
+          Your book request for {{booktitle}} to
+          <strong><span style="color: #001f3f">APP</span>TROVE</strong> eLibrary
+          was successful!
+        </p>
+        <p>Your request ticket number is: {{ticket}}.</p>
+        <p>
+          You can check the status of your request
+          <strong
+            ><a
+              style="color: #001f3f"
+              href="https://apptrove.netlify.app/requests/"
+              >here</a
+            ></strong
+          >
+          anytime using this ticket number.
+        </p>
+        <p>
+          Rest assured, we'll notify you via email as soon as the book is found.
+        </p>
+        <p>
+          Thank you for choosing us and contributing to the expansion of our
+          database. Happy reading!
+        </p>
+        <p style="margin-bottom: 0">Warm regards,</p>
+        <p style="margin-top: 0"><strong>App Trove Team.</strong></p>
+      </div>
+    </div>
+
+    <!-- ====================================================================== -->
+
+    <!-- Contact Mail -->
+
+    <!-- ====================================================================== -->
+    <!-- <div style="background-color: #E9EBEE; padding: 40px 20px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        <div style="width: calc(100% - 40px); max-width: 600px; background-color: white; margin: auto; border-radius: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); padding: 15px;">
+            <a href="https://apptrove.netlify.app/" style="display: block; text-align: center; text-decoration: none; color: black;"><img src="https://apptrove.netlify.app/banner.png" alt="App Trove" style="max-width: 90%; max-height: 30px;" /></a>
+            <hr style="color: gray; margin: 15px 0;" />
+            <h3 style="margin: 0;">Contact Form Message</h3>
+            <p><strong>Name: </strong> Taiwo Joshua</p>
+            <p><strong>E-Mail: </strong> Taiwo Joshua</p>
+            <p><strong>Message: </strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fuga nobis ab deserunt aut adipisci quidem! Perspiciatis dolor quidem esse harum odio. Sunt rerum eos deserunt delectus optio reiciendis dolor?</p>
+        </div>
+    </div> -->
+
+    <!-- ====================================================================== -->
+
+    <!-- Request Completed Mail -->
+
+    <!-- ====================================================================== -->
+    <!-- <div style="background-color: #E9EBEE; padding: 40px 20px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        <div style="width: calc(100% - 40px); max-width: 600px; background-color: white; margin: auto; border-radius: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); padding: 15px;">
+            <a href="https://apptrove.netlify.app/" style="display: block; text-align: center; text-decoration: none; color: black;"><img src="https://apptrove.netlify.app/banner.png" alt="App Trove" style="max-width: 90%; max-height: 30px;" /></a>
+            <hr style="color: gray; margin: 15px 0;" />
+            <h3 style="margin: 0;">Dear Joshua,</h3>
+            <p>We hope this email finds you well.</p>
+            <p>We're excited to inform you that the book you requested from <strong><span style="color: #001F3F;">APP</span>TROVE</strong> eLibrary, " <a href="https://apptrove.netlify.app/search/CVE" style="color: #001F3F;">Hello Hello</a> ", has been found and is now available for download!</p>
+            <p>Thank you for choosing us and contributing to the expansion of our database. We hope you enjoy your new book!</p>
+            <p style="margin-bottom: 0;">Warm regards,</p>
+            <p style="margin-top: 0;"><strong>App Trove Team.</strong></p>
+        </div>
+    </div> -->
+
+    <!-- ====================================================================== -->
+
+    <!-- Donation Mail -->
+
+    <!-- ====================================================================== -->
+    <!-- <div style="background-color: #E9EBEE; padding: 40px 20px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        <div style="width: 100%; max-width: 600px; background-color: white; margin: auto; border-radius: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); padding: 15px;">
+            <a href="https://apptrove.netlify.app/" style="text-decoration: none; color: black;"><h1 title='App Trove' style="display: flex; align-items: center; justify-content: center; font-size: 20px; margin: 0; padding: 0;"><img src="https://apptrove.netlify.app/images/icon.png" alt="App Trove" style="width: 40px;" /><span style="color: #001F3F;">APP</span>TROVE</h1></a>
+            <hr style="color: gray; margin: 15px 0;" />
+            <h3 style="margin: 0;">Dear Joshua,</h3>
+            <p>We hope this email finds you well.</p>
+            <p>We wanted to take a moment to express our heartfelt gratitude for your recent donation of <i>App Title</i> to the <strong><span style="color: #001F3F;">APP</span>TROVE</strong> eLibrary. Your generosity is truly appreciated, and your contribution will make a meaningful difference in our efforts to promote availability of resources.</p>
+            <p>Thank you for your kindness and support. Your donation will help enrich the reading experiences of many individuals in our community.</p>
+            <p style="margin-bottom: 0;">Warm regards,</p>
+            <p style="margin-top: 0;"><strong>App Trove Team.</strong></p>
+        </div>
+    </div> -->
+  </body>
+</html>

@@ -1,0 +1,296 @@
+[
+  {
+    "category": "Productivity",
+    "subcategories": [
+      "Task Management",
+      "Note-Taking",
+      "Calendars",
+      "Document Editing",
+      "Collaboration Tools",
+      "Time Management",
+      "Project Planning"
+    ]
+  },
+  {
+    "category": "Communication",
+    "subcategories": [
+      "Messaging",
+      "Email",
+      "Video Conferencing",
+      "Social Networking",
+      "VoIP"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "subcategories": [
+      "Streaming (Music, Video)",
+      "Games",
+      "Media Players",
+      "E-books",
+      "News"
+    ]
+  },
+  {
+    "category": "Lifestyle",
+    "subcategories": [
+      "Fitness and Health",
+      "Travel and Navigation",
+      "Food and Drink",
+      "Shopping",
+      "Personal Finance",
+      "Home Improvement",
+      "Hobbies",
+      "Fashion",
+      "Gardening"
+    ]
+  },
+  {
+    "category": "Education",
+    "subcategories": [
+      "E-Learning",
+      "Language Learning",
+      "Educational Games",
+      "Reference",
+      "Study Tools"
+    ]
+  },
+  {
+    "category": "Finance",
+    "subcategories": [
+      "Banking",
+      "Investment",
+      "Budgeting",
+      "Cryptocurrency",
+      "Expense Tracking"
+    ]
+  },
+  {
+    "category": "Utility",
+    "subcategories": [
+      "File Management",
+      "Backup and Recovery",
+      "System Optimization",
+      "Security",
+      "Device Management"
+    ]
+  },
+  {
+    "category": "Business",
+    "subcategories": [
+      "CRM (Customer Relationship Management)",
+      "Project Management",
+      "Invoicing",
+      "HR Management",
+      "Enterprise Resource Planning (ERP)"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "subcategories": [
+      "Telemedicine",
+      "Health Tracking",
+      "Medication Management",
+      "Mental Health",
+      "Medical Reference"
+    ]
+  },
+  {
+    "category": "Social",
+    "subcategories": ["Social Media", "Networking", "Community", "Dating"]
+  },
+  {
+    "category": "Photography",
+    "subcategories": [
+      "Photo Editing",
+      "Camera Apps",
+      "Photo Sharing",
+      "Image Storage"
+    ]
+  },
+  {
+    "category": "Travel",
+    "subcategories": [
+      "Booking and Reservations",
+      "Travel Guides",
+      "Currency Converters"
+    ]
+  },
+  {
+    "category": "Shopping",
+    "subcategories": [
+      "E-commerce",
+      "Deal Finders",
+      "Price Comparison",
+      "Wishlist Management"
+    ]
+  },
+  {
+    "category": "Sports",
+    "subcategories": [
+      "Live Scores",
+      "Sports News",
+      "Training and Fitness",
+      "Fantasy Sports"
+    ]
+  },
+  {
+    "category": "Science & Technology",
+    "subcategories": [
+      "Tech News",
+      "Research Tools",
+      "Scientific Calculators",
+      "Educational Simulations"
+    ]
+  },
+  {
+    "category": "Programming",
+    "subcategories": [
+      "Code Editors",
+      "IDEs (Integrated Development Environments)",
+      "Version Control",
+      "Package Managers",
+      "Debugging Tools",
+      "Build Tools",
+      "Documentation Tools"
+    ]
+  },
+  {
+    "category": "Augmented Reality (AR) & Virtual Reality (VR)",
+    "subcategories": ["AR Games", "VR Games", "AR Navigation", "VR Experiences"]
+  },
+  {
+    "category": "Automation",
+    "subcategories": [
+      "Task Automation",
+      "Workflow Automation",
+      "Scripting Tools",
+      "Robotics Control"
+    ]
+  },
+  {
+    "category": "Accessibility",
+    "subcategories": [
+      "Screen Readers",
+      "Magnifiers",
+      "Speech Recognition",
+      "Accessibility Utilities"
+    ]
+  },
+  {
+    "category": "Music",
+    "subcategories": [
+      "Music Production",
+      "Music Discovery",
+      "Music Streaming",
+      "Audio Editing"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "subcategories": [
+      "Property Listings",
+      "Virtual Tours",
+      "Mortgage Calculators",
+      "Real Estate Management"
+    ]
+  },
+  {
+    "category": "Transportation",
+    "subcategories": [
+      "Ride-Sharing",
+      "Public Transit",
+      "Navigation",
+      "Vehicle Maintenance"
+    ]
+  },
+  {
+    "category": "Government & Civic",
+    "subcategories": [
+      "Public Services",
+      "Voting",
+      "Civic Engagement",
+      "Legal Assistance"
+    ]
+  },
+  {
+    "category": "Events",
+    "subcategories": [
+      "Event Management",
+      "Ticketing",
+      "Event Discovery",
+      "RSVP & Scheduling"
+    ]
+  },
+  {
+    "category": "Cryptocurrency & Blockchain",
+    "subcategories": [
+      "Crypto Wallets",
+      "Trading Platforms",
+      "Blockchain Development",
+      "Mining Tools"
+    ]
+  },
+  {
+    "category": "Personalization",
+    "subcategories": [
+      "Customization Tools",
+      "Personal Assistants",
+      "Habit Tracking",
+      "Personalized Recommendations"
+    ]
+  },
+  {
+    "category": "Kids & Family",
+    "subcategories": [
+      "Parenting Tools",
+      "Kids’ Learning Apps",
+      "Family Organizers"
+    ]
+  },
+  {
+    "category": "Legal",
+    "subcategories": [
+      "Legal Document Preparation",
+      "Case Management",
+      "Legal Research",
+      "Contract Management"
+    ]
+  },
+  {
+    "category": "News & Magazines",
+    "subcategories": [
+      "News Aggregators",
+      "Magazine Subscriptions",
+      "Local News",
+      "Industry News"
+    ]
+  },
+  {
+    "category": "Grocery & Food Delivery",
+    "subcategories": [
+      "Grocery Delivery",
+      "Meal Kits",
+      "Restaurant Delivery",
+      "Food Ordering"
+    ]
+  },
+  {
+    "category": "Fitness & Wellbeing",
+    "subcategories": [
+      "Workout Plans",
+      "Meditation",
+      "Diet and Nutrition",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "category": "Home & Family",
+    "subcategories": [
+      "Home Automation",
+      "Family Calendars",
+      "Recipe Management",
+      "Household Budgeting"
+    ]
+  }
+]
