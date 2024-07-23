@@ -113,4 +113,5 @@ Distributed under the MIT License. See LICENSE for more information.
 - Taiwo Joshua
 - joshuataiwo07@gmail.com
 - My Portfolio: https://taiwojoshua.netlify.app/
+- Live Hosting: https://apptrove.netlify.app/
 - Project Link: https://github.com/TaiwoJoshua/apptrove
