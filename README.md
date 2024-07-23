@@ -42,7 +42,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     npm install
     ```
 
-### Firebase Setup
+## Firebase Setup
 
 - If you haven't already, create a Firebase project at Firebase Console.
 
@@ -56,6 +56,19 @@ Follow these instructions to get a copy of the project up and running on your lo
   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
   REACT_APP_FIREBASE_APP_ID=your_app_id
   ```
+
+## EmailJS Setup
+
+Create an EmailJS account at EmailJS.
+
+In the root directory of the project, add the following EmailJS configuration details to your .env file:
+
+```makefile
+REACT_APP_EMAIL_JS_SERVICE_ID=your_service_id
+REACT_APP_EMAIL_JS_DONATION_TEMPLATE_ID=your_donation_template_id
+REACT_APP_EMAIL_JS_REQUEST_TEMPLATE_ID=your_request_template_id
+REACT_APP_EMAIL_JS_PUBLIC_KEY=your_public_key
+```
 
 ## Run the application
 
@@ -99,5 +112,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 - Taiwo Joshua
 - joshuataiwo07@gmail.com
-- [My Portfolio](https://taiwojoshua.netlify.app/)
-- [Project Link](https://github.com/TaiwoJoshua/apptrove)
+- My Portfolio: https://taiwojoshua.netlify.app/
+- Project Link: https://github.com/TaiwoJoshua/apptrove
