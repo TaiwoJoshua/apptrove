@@ -57,11 +57,11 @@ Follow these instructions to get a copy of the project up and running on your lo
   REACT_APP_FIREBASE_APP_ID=your_app_id
   ```
 
-### Run the application
+## Run the application
 
-        ```sh
-        npm start
-        ```
+```sh
+npm start
+```
 
 The app should now be running on http://localhost:3000
 
@@ -98,5 +98,6 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 
 - Taiwo Joshua
-- [joshuataiwo07@gmail.com](https://taiwojoshua.netlify.app/)
-- Project Link: https://github.com/TaiwoJoshua/apptrove
+- joshuataiwo07@gmail.com
+- [My Portfolio](https://taiwojoshua.netlify.app/)
+- [Project Link](https://github.com/TaiwoJoshua/apptrove)
