@@ -40,8 +40,9 @@ export default function Home() {
   }
 
   useEffect(() => {
-    if (searchParams.get("sort") && sortType === "timestamp") {
-      setSortType(searchParams.get("sort"));
+    const sort = searchParams.get("sort");
+    if (sort && sortType !== sort) {
+      setSortType(sort);
     }
   }, [searchParams, sortType]);
 

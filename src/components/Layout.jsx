@@ -33,7 +33,7 @@ function Layout({ apps, setApps, admin }) {
         }, 500);
       } else {
         setInfo({ id: "", name: "" });
-        setSearchParams("info", "");
+        setSearchParams({ info: "" });
         // searchParams.delete("info");
       }
     } else {
@@ -171,7 +171,7 @@ function Layout({ apps, setApps, admin }) {
               <br />
               <strong>Step 9:</strong> Input the size of the app <br />
               <strong>Format</strong> - 50.00MB <br />
-              <strong>Step 10:</strong> Upload the app cover <br />
+              <strong>Step 10:</strong> Upload the app icon <br />
               <strong>Step 11:</strong> Upload{" "}
               <strong>3 - 5 distinct and notable</strong> screenshots of pages
               from the app as preview <br />

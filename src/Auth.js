@@ -16,24 +16,24 @@ export const signOutUser = async () => {
 };
 
 // export const createUser = async (email, password) => {
-//     try {
-//         await createUserWithEmailAndPassword(auth, email, password);
+//   try {
+//     await createUserWithEmailAndPassword(auth, email, password);
 
-//         // Send email verification
-//         var actionCodeSettings = {
-//             url: 'http://localhost:3000/signin',
-//             handleCodeInApp: false
-//         };
-//         await sendEmailVerification(auth.currentUser, actionCodeSettings);
+//     // Send email verification
+//     var actionCodeSettings = {
+//       url: "http://localhost:3000/signin",
+//       handleCodeInApp: false,
+//     };
+//     await sendEmailVerification(auth.currentUser, actionCodeSettings);
 
-//         // Email verification sent!
-//         signOutUser();
+//     // Email verification sent!
+//     signOutUser();
 
-//         // Return a success indicator or other relevant data
-//         return {status: "E-Mail Verification Link Sent"}; // You can customize the return value as needed
-//     } catch (error) {
-//         return error; // You can customize the return value as needed
-//     }
+//     // Return a success indicator or other relevant data
+//     return { status: "E-Mail Verification Link Sent" }; // You can customize the return value as needed
+//   } catch (error) {
+//     return error; // You can customize the return value as needed
+//   }
 // };
 
 // export const delUser = async () => {

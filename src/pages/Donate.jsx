@@ -12,7 +12,7 @@ export default function Donate() {
     message: "",
     link: "",
     title: "",
-    cover: "",
+    icon: "",
     author: "",
     preview: [],
     size: "",
@@ -31,7 +31,7 @@ export default function Donate() {
 
   function handleChange(e) {
     const { name, type, value, files } = e.target;
-    const maxSize = name === "cover" ? 100 : 500;
+    const maxSize = name === "icon" ? 100 : 500;
     if (type === "file" && checkImage(files, maxSize, setError, setStatus)) {
       setData((oldData) => ({ ...oldData, [name]: files }));
     } else {
@@ -48,12 +48,12 @@ export default function Donate() {
         id: nanoid(),
         timestamp: new Date().getTime(),
       };
-      if (data.cover && data.cover.length !== 0) {
-        const uploadCover = await uploadFiles("cover", data.cover, [
+      if (data.icon && data.icon.length !== 0) {
+        const uploadIcon = await uploadFiles("icon", data.icon, [
           uploadData.id,
         ]);
-        const { downloadURL } = await uploadCover[0];
-        uploadData["cover"] = downloadURL;
+        const { downloadURL } = await uploadIcon[0];
+        uploadData["icon"] = downloadURL;
       }
 
       if (data.preview && data.preview.length !== 0) {
@@ -341,12 +341,12 @@ export default function Donate() {
               readOnly={loading}
               type="file"
               className="form-control"
-              name="cover"
+              name="icon"
               required
               accept="image/*"
             />
             <label>
-              <span>*</span>App Front Cover (Max Size - 100kb)
+              <span>*</span>App Icon (Max Size - 100kb)
             </label>
           </div>
           <div className="field">
