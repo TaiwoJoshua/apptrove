@@ -69,7 +69,7 @@ export default function DonationsCard({
             preview,
             categories,
           }}
-          donor={{ name, email }}
+          donor={{ name: donor, email }}
           setApps={setData}
           close={() => {
             setCloseUpload(true);
@@ -126,7 +126,7 @@ export default function DonationsCard({
                     <strong>
                       <a
                         className="mail"
-                        href={`mailto: ${email}?subject=Donation of ${name} Reviewed&content=Thank you for your donation to AppTrove.`}
+                        href={`mailto:${email}?subject=Donation of ${name} Reviewed&body=Thank you for your donation to AppTrove.`}
                       >
                         {email}
                       </a>

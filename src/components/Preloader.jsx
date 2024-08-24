@@ -4,7 +4,7 @@ import "./Preloader.css";
 export default function Preloader() {
   return (
     <div id="preloader">
-      <div class="loader"></div>
+      <div className="loader"></div>
     </div>
   );
 }

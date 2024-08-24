@@ -44,7 +44,8 @@ body {
   margin: auto;
 }
 
-.back-btn {
+.back-btn,
+.mode-switch {
   width: 40px;
   height: 40px;
   display: flex;
@@ -67,6 +68,20 @@ body {
   top: initial;
   bottom: 20px;
   left: -50px;
+}
+
+.mode-switch {
+  right: -50px;
+  left: initial;
+  opacity: 0.8;
+  cursor: pointer;
+  transition: right 0.3s ease-in-out;
+}
+
+.mode-switch img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
 }
 
 .apps-sheet {
@@ -131,6 +146,15 @@ main > .sidenav {
 .quote {
   margin-top: 5px;
   transition: color 0.5s ease-in-out;
+}
+
+.sidenav > div {
+  color: gray;
+}
+
+.sidenav > div > span:first-child {
+  font-weight: 700;
+  color: black;
 }
 
 .loader-item {
@@ -1019,6 +1043,7 @@ Book Requests Section
 
 =========================================================================================== */
 .book-requests {
+  border-radius: 8px;
   padding: 40px 20px;
   background-color: white;
 }
@@ -1445,6 +1470,7 @@ Home
   font-size: 1.3em;
   color: #12a70c;
   text-align: center;
+  border-radius: 8px;
 }
 
 .home-apps-section {
@@ -1947,12 +1973,14 @@ Download
   width: 50px;
   height: 50px;
   margin-bottom: 2px;
+  pointer-events: none;
 }
 
-.app-download-share-links label svg {
+.app-download-share-links label svg,
+.app-download-share-links a svg {
   font-size: 3em;
   color: black;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 /* =============================================================================================

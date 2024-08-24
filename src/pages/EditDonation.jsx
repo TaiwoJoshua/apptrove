@@ -89,7 +89,6 @@ export default function EditDonation() {
         name: app.name,
         author: app.author,
         size: app.size,
-        pages: app.pages,
         categories: app.categories,
       };
       if (app.icon && app.icon.length !== 0) {

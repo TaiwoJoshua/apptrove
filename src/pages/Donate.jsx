@@ -7,11 +7,12 @@ import CategoriesSelection from "./components/CategoriesSelection";
 
 export default function Donate() {
   const [data, setData] = useState({
-    name: "",
+    donor: "",
     email: "",
     message: "",
     link: "",
-    title: "",
+    name: "",
+    about: "",
     icon: "",
     author: "",
     preview: [],
@@ -84,11 +85,12 @@ export default function Donate() {
           });
           setData((oldData) => ({
             ...oldData,
-            name: "",
+            donor: "",
             email: "",
             message: "",
             link: "",
-            title: "",
+            name: "",
+            about: "",
             author: "",
             size: "",
             display: "",
@@ -161,11 +163,11 @@ export default function Donate() {
                 readOnly={loading}
                 type="text"
                 className="form-control"
-                name="name"
+                name="donor"
                 autoComplete="off"
                 placeholder="Name"
                 maxLength={30}
-                value={data.name}
+                value={data.donor}
               />
               <label>Full Name</label>
             </div>
@@ -215,7 +217,7 @@ export default function Donate() {
                 readOnly={loading}
                 type="text"
                 className="form-control"
-                name="title"
+                name="name"
                 autoComplete="off"
                 placeholder="App Name"
                 required
@@ -274,6 +276,26 @@ export default function Donate() {
         <div>
           <div>
             <div className="field">
+              <textarea
+                onChange={handleChange}
+                readOnly={loading}
+                className="form-control textarea"
+                rows={3}
+                name="about"
+                placeholder="About the App"
+                maxLength={500}
+                value={data.about}
+                required
+              />
+              <label>
+                <span>*</span>About the App
+              </label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div>
+            <div className="field">
               <input
                 onChange={handleChange}
                 readOnly={loading}
@@ -308,28 +330,6 @@ export default function Donate() {
               />
               <label>
                 <span>*</span>App Size
-              </label>
-            </div>
-          </div>
-          <div>
-            <div className="field">
-              <input
-                onChange={handleChange}
-                readOnly={loading}
-                type="number"
-                className="form-control"
-                name="pages"
-                autoComplete="off"
-                placeholder="App Pages"
-                min={1}
-                max={99999}
-                minLength={1}
-                maxLength={5}
-                required
-                value={data.pages}
-              />
-              <label>
-                <span>*</span>App Pages
               </label>
             </div>
           </div>

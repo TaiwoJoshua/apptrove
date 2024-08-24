@@ -117,7 +117,6 @@ export default function EditApp() {
         name: data.name,
         author: data.author,
         size: data.size,
-        pages: data.pages,
         categories: data.categories,
       };
       if (data.icon && data.icon.length !== 0) {

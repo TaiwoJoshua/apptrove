@@ -272,7 +272,7 @@ export default function Requests() {
             const time = dat.timestamp;
             if (
               (status === "Completed" || status === "Not Found") &&
-              getTimeDifferenceInDays(time) >= 7
+              getTimeDifferenceInDays(time) >= 30
             ) {
               console.log(
                 dat.name,
@@ -477,7 +477,7 @@ export default function Requests() {
           <p className="home-no-books">No App Request Found</p>
         )}
       <div style={{ marginTop: "20px" }}>
-        <strong>Note:</strong> An App Request would be deleted after 7 days if
+        <strong>Note:</strong> An App Request would be deleted after 30 days if
         the status has become either <strong>Completed</strong> or{" "}
         <strong>Not Found</strong>.
       </div>

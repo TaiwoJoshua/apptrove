@@ -52,7 +52,6 @@ export default function Donations() {
       author={dat.author}
       link={dat.link}
       size={dat.size}
-      pages={dat.pages}
       donor={dat.donor}
       preview={dat.preview}
       email={dat.email}

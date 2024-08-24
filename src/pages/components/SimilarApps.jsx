@@ -23,9 +23,9 @@ export default function SimilarApps({ apps, setApps, search, admin, id = "" }) {
         setReady(false);
         setTimeout(() => {
           setShow((oldShow) => {
-            let add = 5;
-            if (result.length - oldShow < 5) {
-              add = result.length % 5;
+            let add = 20;
+            if (result.length - oldShow < 20) {
+              add = result.length % 20;
               setMore(true);
             } else if (result.length - oldShow === 20) {
               setMore(false);

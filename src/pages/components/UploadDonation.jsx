@@ -12,7 +12,7 @@ import {
 } from "../../AppManager";
 
 export default function UploadDonation({ donation, setApps, close, donor }) {
-  const { id, title } = donation;
+  const { id, name } = donation;
   const [something, setSomething] = React.useState("");
   const [status, setStatus] = React.useState({
     status: "",
@@ -45,7 +45,7 @@ export default function UploadDonation({ donation, setApps, close, donor }) {
         downloads: 0,
         timestamp: new Date().getTime(),
       };
-      const mail = await donationMail(donor.name, title, donor.email);
+      const mail = await donationMail(donor.name, name, donor.email);
       if (mail === "sent") {
         const send = await updateRecordField("apps", uploadData);
         if (send === true) {
@@ -82,7 +82,7 @@ export default function UploadDonation({ donation, setApps, close, donor }) {
     <div className="confirm-action-wrapper">
       <form className="action-form" onSubmit={handleSubmit}>
         <div className="action-nav">
-          <h2 className="action-title">Upload {title}</h2>
+          <h2 className="action-nametitle">Upload {name}</h2>
           {!loading && (
             <LiaTimesCircle onClick={close} className="action-close" />
           )}

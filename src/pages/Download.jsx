@@ -13,6 +13,7 @@ import { formatDownloads, showSwal, updateRecordField } from "../AppManager";
 import { nanoid } from "nanoid";
 import { FaCopy } from "react-icons/fa";
 import { LiaTimesCircle } from "react-icons/lia";
+import { FaEnvelope } from "react-icons/fa6";
 
 export async function loader(apps) {
   try {
@@ -236,7 +237,7 @@ export default function Download() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src="/images/icons/envelope.svg" alt="Mail" />
+                <FaEnvelope style={{ fontSize: "4em", margin: 0 }} />
                 <span>Mail</span>
               </a>
               <label>
@@ -244,7 +245,7 @@ export default function Download() {
                 {copied && (
                   <FaCheckDouble style={{ fontSize: "2em", color: "green" }} />
                 )}
-                <span>Copy</span>
+                <span>Link</span>
               </label>
             </div>
             <LiaTimesCircle

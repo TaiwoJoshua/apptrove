@@ -1,0 +1,112 @@
+body:has(.App.darkMode),
+.App.darkMode .courtesy-data {
+  background-color: #002a54;
+}
+
+.App.darkMode .navbar,
+.App.darkMode .footer > div,
+.App.darkMode .book-request,
+.App.darkMode .app-info,
+.App.darkMode .app-download-info-card,
+.App.darkMode .app-download-share-wrapper,
+.App.darkMode .book-requests,
+.App.darkMode .book-card,
+.App.darkMode #preloader,
+.App.darkMode .md-nav > div:nth-child(2) {
+  background-color: #001f3f;
+}
+
+.App.darkMode .book-request > h3,
+.sidenav > div > span:first-child,
+.App.darkMode .app-info-head > h3,
+.App.darkMode .app-info-about strong,
+.App.darkMode .home-section-title,
+.App.darkMode .app-download-info-card strong,
+.App.darkMode .app-download-info-card h2,
+.App.darkMode .app-download-info-card h4,
+.App.darkMode .app-download-share-wrapper span,
+.App.darkMode .app-download-share-wrapper,
+.App.darkMode .app-download-share-links svg,
+.App.darkMode .book-requests strong,
+.App.darkMode .home-categories-category h3,
+.App.darkMode .book-card-options > span:not(:nth-child(1)):hover,
+.App.darkMode .book-card h4,
+.App.darkMode .courtesy-data strong,
+.App.darkMode .md-nav > div > ul > li > a {
+  color: white;
+}
+
+.App.darkMode .header-name span:last-child,
+.App.darkMode .footer,
+.App.darkMode .app-sort-wrapper button {
+  color: white;
+  text-shadow: none;
+}
+
+.App.darkMode .footer a,
+.App.darkMode .courtesy-data a {
+  color: #1abc9c;
+}
+
+.App.darkMode .footer > div:nth-child(1) > div > h3,
+.App.darkMode .app-card i,
+.App.darkMode .field label,
+.App.darkMode .sidenav > div,
+.App.darkMode .app-download-info-card,
+.App.darkMode .app-download-share-wrapper p,
+.App.darkMode .book-requests,
+.App.darkMode .book-card .book-card-options span {
+  color: rgb(200, 200, 200);
+}
+
+.App.darkMode .welcome-info,
+.App.darkMode .app-card,
+.App.darkMode .home-no-apps {
+  background-color: #001f3f;
+  color: white;
+}
+
+.App.darkMode .quote.show {
+  color: rgb(200, 200, 200) !important;
+}
+
+.App.darkMode .quote.show strong {
+  color: white !important;
+}
+
+.App.darkMode .app-sort-wrapper button,
+.App.darkMode .app-info-size,
+.App.darkMode .home-categories-category,
+.App.darkMode .loader,
+.App.darkMode .md-nav > div > ul > li {
+  border-color: white;
+}
+
+.App.darkMode .app-info-download-btn,
+.App.darkMode .load-btn,
+.App.darkMode .md-nav > div > ul > li > a::before {
+  background-color: white;
+  color: #001f3f;
+}
+
+.App.darkMode .md-nav > div > ul > li > a:hover,
+.App.darkMode .md-nav > div > ul > li > a.active {
+  color: #001f3f;
+}
+
+.App.darkMode .loader-item {
+  background: linear-gradient(to top right, #001f3f 0%, #003c78 100%);
+  box-shadow: 0 0 3px rgb(200, 200, 200);
+  animation: 2s shine linear infinite;
+}
+
+.App.darkMode .courtesy-data {
+  box-shadow: 0 0 3px rgba(255, 255, 255, 0.8);
+}
+
+@keyframes shine {
+  to {
+    background-position-x: -200%;
+    box-shadow: 0 0 3px rgba(200, 200, 200, 0);
+  }
+}

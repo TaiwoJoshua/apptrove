@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import Layout from "./components/Layout";
@@ -36,8 +36,21 @@ const AnimatedRoute = ({ children }) => (
 );
 
 export default function App() {
-  const [apps, setApps] = React.useState([]);
-  const [admin, setAdmin] = React.useState(true);
+  const [apps, setApps] = useState([]);
+  const [admin, setAdmin] = useState(true);
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem("appTroveTheme")
+      ? JSON.parse(localStorage.getItem("appTroveTheme"))
+      : window.matchMedia &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches;
+  });
+
+  function toggleTheme() {
+    setTheme((old) => {
+      localStorage.setItem("appTroveTheme", !old);
+      return !old;
+    });
+  }
 
   React.useEffect(() => {
     // getRecord("apps")
@@ -131,7 +144,15 @@ export default function App() {
 
   const routerElements = {
     path: "/",
-    element: <Layout apps={apps} setApps={setApps} admin={admin} />,
+    element: (
+      <Layout
+        apps={apps}
+        setApps={setApps}
+        admin={admin}
+        theme={theme}
+        setTheme={toggleTheme}
+      />
+    ),
     children: routes.map((route) =>
       route.childOf
         ? {}
@@ -198,7 +219,7 @@ export default function App() {
   const router = createBrowserRouter([routerElements]);
 
   return (
-    <div className="App">
+    <div className={`App ${theme ? "darkMode" : ""}`}>
       <AnimatePresence mode="wait">
         <RouterProvider router={router} />
       </AnimatePresence>

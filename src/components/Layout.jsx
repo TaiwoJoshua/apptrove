@@ -8,8 +8,10 @@ import Quotes from "./Quotes";
 import { FaArrowLeft } from "react-icons/fa6";
 import AppInfo from "../pages/components/AppInfo";
 import { FaArrowDown } from "react-icons/fa";
+import lightMode from "../images/light.png";
+import darkMode from "../images/dark.png";
 
-function Layout({ apps, setApps, admin }) {
+function Layout({ apps, setApps, admin, theme, setTheme }) {
   const [preloader, setPreloader] = useState(true);
   const { pathname } = useLocation();
   const [info, setInfo] = useState({ id: "", name: "" });
@@ -17,6 +19,7 @@ function Layout({ apps, setApps, admin }) {
     { categories: "", subcategories: [] },
   ]);
   const timeoutRef = useRef(null);
+  const timeoutRef2 = useRef(null);
   const [searchParams, setSearchParams] = useSearchParams();
 
   useEffect(() => {
@@ -117,6 +120,37 @@ function Layout({ apps, setApps, admin }) {
   }, []);
 
   useEffect(() => {
+    const container = document.getElementsByClassName("home-apps-section")[0];
+    function show() {
+      if (timeoutRef2.current) {
+        clearTimeout(timeoutRef2.current);
+      }
+      const back = document.getElementsByClassName("mode-switch");
+      for (let k = 0; k < back.length; k++) {
+        const bac = back[k];
+        if (bac) {
+          bac.style.right = "10px";
+
+          timeoutRef.current = setTimeout(() => {
+            bac.style.right = "-50px";
+          }, 2000);
+        }
+      }
+    }
+    window.addEventListener("scroll", show);
+    if (container) {
+      container.addEventListener("scroll", show);
+    }
+
+    return () => {
+      window.removeEventListener("scroll", show);
+      if (container) {
+        container.removeEventListener("scroll", show);
+      }
+    };
+  }, []);
+
+  useEffect(() => {
     const appInfo = document.getElementsByClassName("App")[0];
     if (appInfo) {
       appInfo.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -134,6 +168,24 @@ function Layout({ apps, setApps, admin }) {
       <a href="#footer" className="back-btn down-btn">
         <FaArrowDown />
       </a>
+      <span className="mode-switch">
+        {theme && (
+          <img
+            src={lightMode}
+            alt="Light Mode"
+            title="Light Mode"
+            onClick={setTheme}
+          />
+        )}
+        {!theme && (
+          <img
+            src={darkMode}
+            alt="Dark Mode"
+            title="Dark Mode"
+            onClick={setTheme}
+          />
+        )}
+      </span>
       <main>
         <div className="main">
           <Outlet
@@ -150,25 +202,21 @@ function Layout({ apps, setApps, admin }) {
             <AppInfo app={info} />
           )}
           {pathname === "/donate" && (
-            <div style={{ color: "gray" }}>
-              <span style={{ fontWeight: 700, color: "black" }}>
-                Need help filling the form?
-              </span>{" "}
-              <br />
+            <div>
+              <span>Need help filling the form?</span> <br />
               <strong>Step 1:</strong> Input your full name (optional) <br />
               <strong>Step 2:</strong> Input your E-Mail <br />
               <strong>Step 3:</strong> Input your message (optional) <br />
               <strong>Step 4:</strong> Input the App Name <br />
-              <strong>Step 5:</strong> Input the categories related to the app{" "}
+              <strong>Step 5:</strong> Select the categories related to the app{" "}
               <br />
-              <strong>Format</strong> - MTH 221 | MAT | CPE 123 <br />
               <strong>Step 6:</strong> Input the author(s) of the app (optional
               but appreciated) <br />
-              <strong>Format</strong> - John Doe | Mary Doe <br />
-              <strong>Step 7:</strong> Input the link where the app can be
+              <strong>Format</strong> - Microsoft | Mary Doe <br />
+              <strong>Step 7:</strong> Write a short message about the App
+              (Type, Functionality, Pay to Use, ...)
+              <strong>Step 8:</strong> Input the link where the app can be
               downloaded from <br />
-              <strong>Step 8:</strong> Input the number of pages of the app{" "}
-              <br />
               <strong>Step 9:</strong> Input the size of the app <br />
               <strong>Format</strong> - 50.00MB <br />
               <strong>Step 10:</strong> Upload the app icon <br />
@@ -181,23 +229,20 @@ function Layout({ apps, setApps, admin }) {
             </div>
           )}
           {pathname === "/request" && (
-            <div style={{ color: "gray" }}>
-              <span style={{ fontWeight: 700, color: "black" }}>
-                Need help filling the form?
-              </span>{" "}
-              <br />
+            <div>
+              <span>Need help filling the form?</span> <br />
               <strong>Step 1:</strong> Input your full name (optional) <br />
               <strong>Step 2:</strong> Input your E-Mail <br />
               <strong>Step 3:</strong> Input your message (optional) <br />
               <strong>Step 4:</strong> Input the App Name <br />
               <strong>Step 5:</strong> Input the author(s) of the app (optional
               but appreciated) <br />
-              <strong>Format</strong> - John Doe | Mary Doe <br />
-              <strong>Step 6:</strong> Input the categories related to the app{" "}
+              <strong>Format</strong> - Microsoft | Mary Doe <br />
+              <strong>Step 6:</strong> Select the categories related to the app{" "}
               <br />
-              <strong>Format</strong> - MTH 221 | MAT | CPE 123 <br />
               Your app request would be worked upon <br />
-              Check back in few days or await a completion mail from us <br />
+              Check back in few days or await a request completion mail from us{" "}
+              <br />
               <strong>Note: </strong> Please, save the ticket number to be able
               to check the status of the request. <br />
               Thank you <br />
